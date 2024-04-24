@@ -1,0 +1,23 @@
+Student_ID,First Name ,Last Name,age,gender,year_in_school,major,monthly_income,financial_aid,tuition,housing,food,transportation,books_supplies,entertainment,personal_care,technology,health_wellness,miscellaneous,preferred_payment_method
+0,John ,Doe ,19,Non-binary,Freshman,Psychology,958,270,5939,709,296,123,188,41,78,134,127,72,Credit/Debit Card
+1,Garry ,Potter,24,Male,Junior,Economics,1006,875,4908,557,365,85,252,74,92,226,129,68,Credit/Debit Card
+2,Cristiano ,Ronaldo ,24,Male,Junior,Economics,734,928,3051,666,220,137,99,130,23,239,112,133,Cash
+3,Lionel ,Messi ,23,Male,Senior,Computer Science,617,265,4935,652,289,114,223,99,30,163,105,55,Mobile Payment App
+4,Anushka,Kohli ,20,Female,Senior,Computer Science,810,522,3887,825,372,168,194,48,71,88,71,104,Credit/Debit Card
+5,Jude ,Bellingham ,25,Non-binary,Sophomore,Computer Science,523,790,3151,413,386,122,131,73,38,234,108,99,Mobile Payment App
+6,Phil,Foden,23,Female,Freshman,Engineering,1354,69,4973,812,398,101,213,21,38,157,117,48,Credit/Debit Card
+7,Jack ,Grealish,23,Female,Junior,Economics,631,748,3966,571,269,92,251,37,90,152,56,62,Mobile Payment App
+8,Lewis ,Hamilton,22,Non-binary,Senior,Computer Science,1402,248,5638,599,354,82,155,123,41,162,172,194,Credit/Debit Card
+9,Selina ,Gomez,18,Female,Junior,Computer Science,1423,74,3977,626,249,117,123,51,74,243,34,196,Mobile Payment App
+10,Arjun ,Kapoor,23,Male,Junior,Biology,762,615,4093,660,262,58,183,98,21,274,66,50,Credit/Debit Card
+11,Yatharth,Shah,25,Male,Freshman,Engineering,1068,19,5138,734,243,200,228,57,57,209,193,146,Credit/Debit Card
+12,Bukayo,Saka,21,Male,Sophomore,Economics,719,540,4863,894,280,120,126,41,50,78,113,114,Credit/Debit Card
+13,Maria ,Lopez,19,Female,Junior,Biology,1176,859,5201,626,234,50,274,20,77,125,199,103,Mobile Payment App
+14,Axel ,Santino,24,Non-binary,Freshman,Economics,1496,75,5301,657,151,63,92,124,64,196,50,117,Cash
+15,Mario ,Luiz,22,Non-binary,Sophomore,Computer Science,1227,26,4175,884,328,167,175,111,96,73,154,109,Cash
+16,Lamin,Yamal,23,Female,Freshman,Psychology,1419,237,5450,883,361,200,141,76,22,285,185,76,Cash
+17,Surya,Yadav,21,Female,Freshman,Computer Science,1454,851,3538,754,357,110,188,33,24,50,74,46,Mobile Payment App
+18,Isha,Ambani ,19,Female,Sophomore,Psychology,1487,311,4401,883,292,69,51,75,60,105,181,164,Credit/Debit Card
+19,Nita ,Merchant,20,Female,Senior,Engineering,1157,401,3131,886,196,131,216,57,39,264,39,174,Mobile Payment App
+20,Wayne,Rooney,19,Male,Junior,Psychology,1180,732,4206,597,254,195,67,51,21,97,185,46,Credit/Debit Card
+21,Suneel,Chettri,24,Male,Sophomore,Computer Science,516,549,4878,814,286,180,282,55,25,77,73,184,Mobile Payment App
